@@ -1,5 +1,4 @@
 # todolist
-An app where you can write some tasks to do during your days. You can divide your lists by sub-links.
 
 A simple app to mark your daily tasks which is possible to create them through different sub-link. More than an webpage, the exercise program carried out in a integratino with a semi-scructed database locally and remotley by MongoDB. The webpage was deployed on Heroku and in the video below is possible to see the integration locally.
 
